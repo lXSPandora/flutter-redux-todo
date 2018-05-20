@@ -1,8 +1,5 @@
-# flutterredux
+# Flutter Redux Example
 
-A new Flutter project.
+A simple example of how to use Flutter and redux
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![Alt text](demo.png "Demo")
